@@ -1,0 +1,14 @@
+{
+  "headers": ["Year", "Population", "Employment", "Housing", "Education"],
+  "data": [
+    { "Year": "2009", "Population": "36200", "Employment": "27200", "Housing": "26200", "Education": "17200" },
+    { "Year": "2010", "Population": "36600", "Employment": "27800", "Housing": "26600", "Education": "17800" },
+    { "Year": "2011", "Population": "37500", "Employment": "28500", "Housing": "27500", "Education": "18500" },
+    { "Year": "2012", "Population": "38700", "Employment": "29400", "Housing": "28700", "Education": "19400" },
+    { "Year": "2013", "Population": "39600", "Employment": "30200", "Housing": "29600", "Education": "10200" },
+    { "Year": "2014", "Population": "40500", "Employment": "30900", "Housing": "20500", "Education": "10900" },
+    { "Year": "2015", "Population": "41200", "Employment": "31500", "Housing": "21200", "Education": "11500" },
+    { "Year": "2016", "Population": "41803", "Employment": "31931", "Housing": "21803", "Education": "11931" },
+    { "Year": "2017", "Population": "42600", "Employment": "32600", "Housing": "22600", "Education": "12600" }
+  ]
+}
