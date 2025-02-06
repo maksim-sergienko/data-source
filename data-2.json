@@ -1,0 +1,14 @@
+{
+  "headers": ["Year", "Total Population", "Employed People", "Housing Units", "Students Enrolled"],
+  "data": [
+    { "Year": "2009", "Total Population": "36200", "Employed People": "27200", "Housing Units": "26200", "Students Enrolled": "17200" },
+    { "Year": "2010", "Total Population": "36600", "Employed People": "27800", "Housing Units": "26600", "Students Enrolled": "17800" },
+    { "Year": "2011", "Total Population": "37500", "Employed People": "28500", "Housing Units": "27500", "Students Enrolled": "18500" },
+    { "Year": "2012", "Total Population": "38700", "Employed People": "29400", "Housing Units": "28700", "Students Enrolled": "19400" },
+    { "Year": "2013", "Total Population": "39600", "Employed People": "30200", "Housing Units": "29600", "Students Enrolled": "10200" },
+    { "Year": "2014", "Total Population": "40500", "Employed People": "30900", "Housing Units": "20500", "Students Enrolled": "10900" },
+    { "Year": "2015", "Total Population": "41200", "Employed People": "31500", "Housing Units": "21200", "Students Enrolled": "11500" },
+    { "Year": "2016", "Total Population": "41803", "Employed People": "31931", "Housing Units": "21803", "Students Enrolled": "11931" },
+    { "Year": "2017", "Total Population": "42600", "Employed People": "32600", "Housing Units": "22600", "Students Enrolled": "12600" }
+  ]
+}
