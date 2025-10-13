@@ -1,0 +1,137 @@
+ISIC4,ISIC4_Code,ISCO08,TotalEmp,Percent
+Mining and Quarrying,B,Managers,2939,0.0006
+Mining and Quarrying,B,Professionals,26396,0.005
+Mining and Quarrying,B,Technicians and Associate Professionals,15343,0.0029
+Mining and Quarrying,B,Clerical Support Workers,9526,0.0018
+Mining and Quarrying,B,Service and Sales Workers,1622,0.0003
+Mining and Quarrying,B,Skilled Agricultural,3317,0.0006
+Mining and Quarrying,B,Craft and Related Trades Workers,8829,0.0017
+Mining and Quarrying,B,Plant and Machine Operators,22762,0.0043
+Manufacturing,C,Managers,34935,0.0066
+Manufacturing,C,Professionals,116648,0.0221
+Manufacturing,C,Technicians and Associate Professionals,119996,0.0228
+Manufacturing,C,Clerical Support Workers,55279,0.0105
+Manufacturing,C,Service and Sales Workers,55416,0.0105
+Manufacturing,C,Skilled Agricultural,60491,0.0115
+Manufacturing,C,Craft and Related Trades Workers,163798,0.0311
+Manufacturing,C,Plant and Machine Operators,137585,0.0261
+Electricity and Gas,D,Managers,624,0.0001
+Electricity and Gas,D,Professionals,6560,0.0012
+Electricity and Gas,D,Technicians and Associate Professionals,11464,0.0022
+Electricity and Gas,D,Clerical Support Workers,751,0.0001
+Electricity and Gas,D,Service and Sales Workers,917,0.0002
+Electricity and Gas,D,Skilled Agricultural,164,0
+Electricity and Gas,D,Craft and Related Trades Workers,234,0
+Electricity and Gas,D,Plant and Machine Operators,463,0.0001
+Water and Waste Management,E,Managers,704,0.0001
+Water and Waste Management,E,Professionals,3883,0.0007
+Water and Waste Management,E,Technicians and Associate Professionals,4398,0.0008
+Water and Waste Management,E,Clerical Support Workers,2057,0.0004
+Water and Waste Management,E,Service and Sales Workers,1126,0.0002
+Water and Waste Management,E,Skilled Agricultural,2178,0.0004
+Water and Waste Management,E,Craft and Related Trades Workers,7174,0.0014
+Water and Waste Management,E,Plant and Machine Operators,9154,0.0017
+Construction,F,Managers,57327,0.0109
+Construction,F,Professionals,261229,0.0496
+Construction,F,Technicians and Associate Professionals,217574,0.0413
+Construction,F,Clerical Support Workers,107520,0.0204
+Construction,F,Service and Sales Workers,90553,0.0172
+Construction,F,Skilled Agricultural,192258,0.0365
+Construction,F,Craft and Related Trades Workers,477808,0.0906
+Construction,F,Plant and Machine Operators,312437,0.0593
+Wholesale and Retail Trade,G,Managers,57554,0.0109
+Wholesale and Retail Trade,G,Professionals,134263,0.0255
+Wholesale and Retail Trade,G,Technicians and Associate Professionals,119471,0.0227
+Wholesale and Retail Trade,G,Clerical Support Workers,50436,0.0096
+Wholesale and Retail Trade,G,Service and Sales Workers,171741,0.0326
+Wholesale and Retail Trade,G,Skilled Agricultural,107382,0.0204
+Wholesale and Retail Trade,G,Craft and Related Trades Workers,132035,0.025
+Wholesale and Retail Trade,G,Plant and Machine Operators,79884,0.0152
+Transportation and Storage,H,Managers,7856,0.0015
+Transportation and Storage,H,Professionals,20623,0.0039
+Transportation and Storage,H,Technicians and Associate Professionals,23008,0.0044
+Transportation and Storage,H,Clerical Support Workers,17581,0.0033
+Transportation and Storage,H,Service and Sales Workers,19121,0.0036
+Transportation and Storage,H,Skilled Agricultural,22539,0.0043
+Transportation and Storage,H,Craft and Related Trades Workers,22325,0.0042
+Transportation and Storage,H,Plant and Machine Operators,68485,0.013
+Accommodation and Food,I,Managers,27894,0.0053
+Accommodation and Food,I,Professionals,39352,0.0075
+Accommodation and Food,I,Technicians and Associate Professionals,27556,0.0052
+Accommodation and Food,I,Clerical Support Workers,33811,0.0064
+Accommodation and Food,I,Service and Sales Workers,177983,0.0338
+Accommodation and Food,I,Skilled Agricultural,78622,0.0149
+Accommodation and Food,I,Craft and Related Trades Workers,27803,0.0053
+Accommodation and Food,I,Plant and Machine Operators,16960,0.0032
+Information and Communication,J,Managers,6271,0.0012
+Information and Communication,J,Professionals,28405,0.0054
+Information and Communication,J,Technicians and Associate Professionals,7802,0.0015
+Information and Communication,J,Clerical Support Workers,5456,0.001
+Information and Communication,J,Service and Sales Workers,2453,0.0005
+Information and Communication,J,Skilled Agricultural,1137,0.0002
+Information and Communication,J,Craft and Related Trades Workers,1878,0.0004
+Information and Communication,J,Plant and Machine Operators,680,0.0001
+Finance and Insurance,K,Managers,9990,0.0019
+Finance and Insurance,K,Professionals,16403,0.0031
+Finance and Insurance,K,Technicians and Associate Professionals,1625,0.0003
+Finance and Insurance,K,Clerical Support Workers,22716,0.0043
+Finance and Insurance,K,Service and Sales Workers,260,0
+Finance and Insurance,K,Skilled Agricultural,108,0
+Finance and Insurance,K,Craft and Related Trades Workers,59,0
+Finance and Insurance,K,Plant and Machine Operators,37,0
+Real Estate,L,Managers,9417,0.0018
+Real Estate,L,Professionals,19902,0.0038
+Real Estate,L,Technicians and Associate Professionals,7400,0.0014
+Real Estate,L,Clerical Support Workers,5371,0.001
+Real Estate,L,Service and Sales Workers,3404,0.0006
+Real Estate,L,Skilled Agricultural,2994,0.0006
+Real Estate,L,Craft and Related Trades Workers,4451,0.0008
+Real Estate,L,Plant and Machine Operators,2414,0.0005
+Science and Technology,M,Managers,3729,0.0007
+Science and Technology,M,Professionals,36488,0.0069
+Science and Technology,M,Technicians and Associate Professionals,6892,0.0013
+Science and Technology,M,Clerical Support Workers,3972,0.0008
+Science and Technology,M,Service and Sales Workers,978,0.0002
+Science and Technology,M,Skilled Agricultural,1465,0.0003
+Science and Technology,M,Craft and Related Trades Workers,2847,0.0005
+Science and Technology,M,Plant and Machine Operators,1588,0.0003
+Administration and Support,N,Managers,13456,0.0026
+Administration and Support,N,Professionals,59915,0.0114
+Administration and Support,N,Technicians and Associate Professionals,52202,0.0099
+Administration and Support,N,Clerical Support Workers,39039,0.0074
+Administration and Support,N,Service and Sales Workers,46069,0.0087
+Administration and Support,N,Skilled Agricultural,42518,0.0081
+Administration and Support,N,Craft and Related Trades Workers,61391,0.0116
+Administration and Support,N,Plant and Machine Operators,50744,0.0096
+Education,P,Managers,6687,0.0013
+Education,P,Professionals,50759,0.0096
+Education,P,Technicians and Associate Professionals,19901,0.0038
+Education,P,Clerical Support Workers,12218,0.0023
+Education,P,Service and Sales Workers,8206,0.0016
+Education,P,Skilled Agricultural,16082,0.0031
+Education,P,Craft and Related Trades Workers,14393,0.0027
+Education,P,Plant and Machine Operators,13232,0.0025
+Healthcare and Social,Q,Managers,5212,0.001
+Healthcare and Social,Q,Professionals,22451,0.0043
+Healthcare and Social,Q,Technicians and Associate Professionals,6050,0.0011
+Healthcare and Social,Q,Clerical Support Workers,5739,0.0011
+Healthcare and Social,Q,Service and Sales Workers,3327,0.0006
+Healthcare and Social,Q,Skilled Agricultural,1154,0.0002
+Healthcare and Social,Q,Craft and Related Trades Workers,706,0.0001
+Healthcare and Social,Q,Plant and Machine Operators,1522,0.0003
+Arts and Entertainment,R,Managers,3138,0.0006
+Arts and Entertainment,R,Professionals,4792,0.0009
+Arts and Entertainment,R,Technicians and Associate Professionals,8766,0.0017
+Arts and Entertainment,R,Clerical Support Workers,3042,0.0006
+Arts and Entertainment,R,Service and Sales Workers,3027,0.0006
+Arts and Entertainment,R,Skilled Agricultural,2199,0.0004
+Arts and Entertainment,R,Craft and Related Trades Workers,1799,0.0003
+Arts and Entertainment,R,Plant and Machine Operators,973,0.0002
+Other Services,S,Managers,9618,0.0018
+Other Services,S,Professionals,22186,0.0042
+Other Services,S,Technicians and Associate Professionals,13394,0.0025
+Other Services,S,Clerical Support Workers,11980,0.0023
+Other Services,S,Service and Sales Workers,100664,0.0191
+Other Services,S,Skilled Agricultural,29260,0.0056
+Other Services,S,Craft and Related Trades Workers,12872,0.0024
+Other Services,S,Plant and Machine Operators,9040,0.0017
