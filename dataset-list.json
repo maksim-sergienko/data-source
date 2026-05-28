@@ -1,14 +1,57 @@
 [
   {
-    "id": "1",
-    "name": "My Dataset 1"
+    "id": "d-001",
+    "title": "Population Census 2023",
+    "description": "National population census data including age, gender, and regional breakdown."
   },
   {
-    "id": "2",
-    "name": "My Dataset 2"
+    "id": "d-002",
+    "title": "Road Accidents 2022",
+    "description": "Annual road accident statistics categorised by region, severity, and cause."
   },
   {
-    "id": "3",
-    "name": "My Dataset 3"
+    "id": "d-003",
+    "title": "Air Quality Index 2023",
+    "description": "Monthly air quality index readings from monitoring stations across all governorates."
+  },
+  {
+    "id": "d-004",
+    "title": "Hospital Capacity Q3 2023",
+    "description": "Quarterly report on bed occupancy, staffing levels, and emergency wait times."
+  },
+  {
+    "id": "d-005",
+    "title": "GDP by Sector 2022",
+    "description": "Gross domestic product broken down by economic sector for the fiscal year 2022."
+  },
+  {
+    "id": "d-006",
+    "title": "School Enrollment 2023",
+    "description": "Student enrollment figures for public and private schools, segmented by grade and region."
+  },
+  {
+    "id": "d-007",
+    "title": "Electricity Consumption 2023",
+    "description": "Monthly household and industrial electricity consumption in megawatt-hours."
+  },
+  {
+    "id": "d-008",
+    "title": "Water Usage by Municipality 2023",
+    "description": "Per-capita water consumption across all municipalities, with seasonal breakdowns."
+  },
+  {
+    "id": "d-009",
+    "title": "Unemployment Rate 2023",
+    "description": "Monthly unemployment rate disaggregated by gender, age group, and governorate."
+  },
+  {
+    "id": "d-010",
+    "title": "Crop Production 2022",
+    "description": "Annual harvest volumes by crop type, cultivated area, and agricultural region."
+  },
+  {
+    "id": "d-011",
+    "title": "Tourist Arrivals 2023",
+    "description": "Monthly international tourist arrivals by nationality and entry point."
   }
 ]
